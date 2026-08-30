@@ -1,5 +1,5 @@
 # 💫 About Me:
-MBA (Business Analytics) student passionate about transforming data into actionable business insights. Skilled in Excel, SQL, Python, Power BI, and Tableau, with hands-on experience in data analysis, dashboard development, and business intelligence projects. Experienced in data cleaning, exploratory data analysis (EDA), visualization, and trend identification to support strategic decision-making. Strong analytical thinker with a keen interest in market research, predictive analytics, and digital transformation. Continuously learning and building projects that combine business understanding with data-driven solutions.
+MBA (Business Analytics) Professional passionate about transforming data into actionable business insights. Skilled in Excel, SQL, Python, Power BI, and Tableau, with hands-on experience in data analysis, dashboard development, and business intelligence projects. Experienced in data cleaning, exploratory data analysis (EDA), visualization, and trend identification to support strategic decision-making. Strong analytical thinker with a keen interest in market research, predictive analytics, and digital transformation. Continuously learning and building projects that combine business understanding with data-driven solutions.
 
 
 ## 🌐 Socials:
